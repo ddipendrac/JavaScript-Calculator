@@ -71,34 +71,6 @@ body {
   color: #6d6e6e;
 }
 
-/*
-.display-container {
-  height: 130px;
-  width: 100%;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-
-  .display {
-    height: 80px;
-    width: 82%;
-    border-radius: 10px;
-    box-shadow: 1px 6px 10px 1px #d5d1d1 inset;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-    align-items: flex-end;
-    background: #ffffff;
-    font-size: 26px;
-    font-weight: 600;
-    color: #6d6e6e;
-    padding-right: 16px;
-    margin-bottom: -8px;
-    overflow: hidden;
-  }
-}
-*/
 .buttons {
   height: 400px;
   width: 85%;
